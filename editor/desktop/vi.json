@@ -1,0 +1,16 @@
+{
+    "index.cameraPermissionDeniedMessage": "Cho phép sủ dụng camera khi đã thông báo từ chối. Akid sẽ không thể chụp ảnh và quay các video của các block.",
+    "index.cameraPermissionDeniedTitle": "Camera truy cập đã bị từ chối.",
+    "index.darwinPermissionDeniedInstructions": "Thay đổi quyền truy cập của Akid, Vui lòng kiểm tra: \"Security & Privacy\" trong System Preferences.",
+    "index.failedLoadProject": "Không thể tải file lên hệ thống:",
+    "index.leave": "Rời khỏi",
+    "index.microphonePermissionDeniedMessage": "Quyền được sử dụng microphone đã bị từ chối. Akid sẽ không thể ghi âm và thu âm lượng.",
+    "index.microphonePermissionDeniedTitle": "Microphone từ chối truy cập",
+    "index.permissionDeniedInstructions": "To change Akid permissions, please check your system settings and restart Akid.",
+    "index.permissionDeniedMessage": "Quyền truy cập vào hệ thống đã bị từ chối.",
+    "index.permissionDeniedTitle": "Quyền truy cập bị từ chối!",
+    "index.questionLeave": "Thoát Akid?",
+    "index.questionLeaveDetail": "Tất cả các file không được lưu lại sẽ bị mất.",
+    "index.saveFailed": "Lưu file thất bại:",
+    "index.stay": "Ở lại"
+  }
